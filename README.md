@@ -19,7 +19,7 @@ If our work is helpful for your research, please cite our paper:
 ```
 @inproceedings{chen2023neural,
   title={Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement},
-  author={Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, Yining Ma, Te Ye, Jiahai Wang},
+  author={Chen, Jinbiao and Zhang, Zizhen and Cao, Zhiguang and Wu, Yaoxin and Ma, Yining and Ye, Te and Wang, Jiahai},
   booktitle={Advances in Neural Information Processing Systems},
   year={2023},
 }
