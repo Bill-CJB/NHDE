@@ -1,5 +1,5 @@
 # NHDE
-Code for NeurIPS2023 Paper: [Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement](https://github.com/bill-cjb/NHDE)
+Code for NeurIPS2023 Paper: [Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement](https://arxiv.org/abs/2310.15195)
 
 **Quick Start For NHDE-P**
 
